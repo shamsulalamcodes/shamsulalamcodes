@@ -14,12 +14,6 @@
 
 <br/>
 
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Shamsul%20Alam%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%" />
-</div>
----
-
 ## 🙋‍♂️ About Me
 
 I am a passionate beginner on my full stack web development journey. I started with the basics — HTML and CSS — and have been steadily leveling up ever since. I love building things for the web and am always eager to learn something new.
@@ -89,7 +83,7 @@ When I'm not coding, you'll find me exploring new technologies, solving problems
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
 <div>
-  <p align="left">
+  <p align="center">
     <a href="https://www.linkedin.com/in/shamsulalam0007/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="shamsulalamcodes" height="30" width="40" /></a>
     <a href="https://discord.gg/shams473239" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="shamsulalamcodes" height="30" width="40" /></a>
   </p>
@@ -103,35 +97,6 @@ When I'm not coding, you'll find me exploring new technologies, solving problems
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shamsulalamcodes&color=blueviolet&style=for-the-badge" />
   <p>⭐ <em>Thanks for visiting my profile! Feel free to check out my projects below.</em> ⭐</p>
 </div>
-
-
 <br/>
-
-<!--- statistics --->
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
-
-### GitHub Contributions:
-![Snake Grid](https://github.com/shamsulalamcodes/contribution-snake/blob/output/grid.svg)
-
-
-### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=shamsulalamcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsulalamcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
-| ------------- | ------------- |
-
-### Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=shamsulalamcodes&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=shamsulalamcodes" /></a> |
-| ------------- | ------------- |
-
-<br/>
-
-<!--- random quote --->
-##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
-
----
-
-<!--- visit count --->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamsulalamcodes&label=Profile%20views&color=0e75b6&style=flat" alt="shamsulalamcodes" /> </p>
