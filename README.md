@@ -8,34 +8,21 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Shamsul Alam</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Technical+Learner+@PH;Going+to+be+Full+Stack+Web+Developer+soon;JavaScript+Enthusiast" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Technical+Learner+@PH;Going+To+Be+Full+Stack+Developer+Soon;JavaScript+Enthusiast" alt="Typing SVG" /></a>
   </ul>
 </div>
 
 <br/>
 
-<!--- about --->
-- 👋 Hi, I’m **[@shamsulalamcodes](https://github.com/shamsulalamcodes)**
-- 🖥️ I’m Learning **React.js, Next.js, Typescript** for web development.
-- 🗄️ Eager to learn **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** very soon.
-- 📫 Feel free to reach me out **[Email](gym.master.0007@gmail.com)**
-  
 <br/>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20[Your%20Name]%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Shamsul%20Alam%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%" />
 </div>
-
-<div align="center">
-  <h1>✨ [Your Name] ✨</h1>
-  <h3>🚀 Aspiring Full Stack Web Developer</h3>
-  <p><em>Learning one line of code at a time</em></p>
-</div>
-
 ---
 
 ## 🙋‍♂️ About Me
 
-Hey there! I'm **[Your Name]**, a passionate beginner on my full stack web development journey. I started with the basics — HTML and CSS — and have been steadily leveling up ever since. I love building things for the web and am always eager to learn something new.
+I am a passionate beginner on my full stack web development journey. I started with the basics — HTML and CSS — and have been steadily leveling up ever since. I love building things for the web and am always eager to learn something new.
 
 When I'm not coding, you'll find me exploring new technologies, solving problems, and dreaming up my next project. My goal is to become a confident full stack developer who can bring ideas to life from front to back.
 
@@ -84,50 +71,20 @@ When I'm not coding, you'll find me exploring new technologies, solving problems
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shamsulalamcodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsulalamcodes&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamsulalamcodes&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shamsulalamcodes&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge" />
-  <p>⭐ <em>Thanks for visiting my profile! Feel free to check out my projects below.</em> ⭐</p>
-</div>
 <!--- socials --->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
@@ -140,29 +97,16 @@ When I'm not coding, you'll find me exploring new technologies, solving problems
 
 <br/>
 
-<!--- technology --->
-##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
-### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/shamsulalamcodes)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</div>
 
-### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/shamsulalamcodes)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shamsulalamcodes&color=blueviolet&style=for-the-badge" />
+  <p>⭐ <em>Thanks for visiting my profile! Feel free to check out my projects below.</em> ⭐</p>
+</div>
 
-### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,nodejs,express)](https://github.com/shamsulalamcodes)
-
-### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/shamsulalamcodes)
-
-### Deployment Platform:
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/shamsulalamcodes)
-
-### Design & Graphics:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma)](https://github.com/shamsulalamcodes)
-
-### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode,postman)](https://github.com/shamsulalamcodes)
 
 <br/>
 
@@ -174,7 +118,7 @@ When I'm not coding, you'll find me exploring new technologies, solving problems
 
 
 ### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=shamsulalamcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=shamsulalamcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsulalamcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
 | ------------- | ------------- |
 
 ### Repository Stats & Streak:
