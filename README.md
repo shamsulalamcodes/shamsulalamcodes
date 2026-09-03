@@ -8,7 +8,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Shamsul Alam</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Technical+Learner+@PH;Going+to+be+Passionate+Full+Stack+Web+Developer+very+soon;JavaScript+Enthusiast;Interested+in+Bioinformatics" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Technical+Learner+@PH;Going+to+be+Full+Stack+Web+Developer+soon;JavaScript+Enthusiast" alt="Typing SVG" /></a>
   </ul>
 </div>
 
@@ -38,7 +38,7 @@
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,graphql,py)](https://github.com/shamsulalamcodes)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/shamsulalamcodes)
 
 ### CSS Frameworks & Libraries:
 [![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/shamsulalamcodes)
