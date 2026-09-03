@@ -64,18 +64,11 @@ When I'm not coding, you'll find me exploring new technologies, solving problems
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamsulalamcodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsulalamcodes&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamsulalamcodes&theme=tokyonight&hide_border=true" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shamsulalamcodes&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
+<br/>
 
 ---
 
